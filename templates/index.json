@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Working now i would say.",
             "text_style": "body"
           }
         },
@@ -53,7 +53,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>One Stop Jerk Spot</p>",
+            "heading": "<p>One Stop Jerk Spot<\/p>",
             "heading_size": "h1"
           }
         },
