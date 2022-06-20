@@ -210,6 +210,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "494f8d2e-3133-48eb-918c-ad5e44ddba36": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -217,7 +226,8 @@
         "1655743703b9331398-1",
         "1655743703b9331398-2",
         "a5f5eb0d-65aa-4051-9d4d-0ca5b007991a",
-        "f591da94-3e08-423d-8377-4e9e3e30e97a"
+        "f591da94-3e08-423d-8377-4e9e3e30e97a",
+        "494f8d2e-3133-48eb-918c-ad5e44ddba36"
       ],
       "settings": {
         "title": "",
