@@ -134,46 +134,39 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "ebea25db-fb05-4d43-b4bb-95b2e5eafda2": {
+            "type": "image",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "image": "shopify:\/\/shop_images\/DTI_icon_blue_2_2x_b3b4ddb8-1691-4834-89ba-4e0789932ab3.webp",
+              "image_width": 145,
+              "alignment": "center"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "DTI Community",
+              "menu": "dti-community"
             }
           },
           "bb8d2b9f-c7de-4b36-903d-7eb085fa9785": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Take a Training",
+              "menu": "take-a-training"
             }
           },
           "a09542e6-cdcb-4213-9f4a-693ce8f1d757": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Support & Contact",
+              "menu": "support-contact"
             }
           }
         },
         "block_order": [
-          "footer-0",
+          "ebea25db-fb05-4d43-b4bb-95b2e5eafda2",
           "footer-1",
-          "footer-2",
           "bb8d2b9f-c7de-4b36-903d-7eb085fa9785",
           "a09542e6-cdcb-4213-9f4a-693ce8f1d757"
         ],
