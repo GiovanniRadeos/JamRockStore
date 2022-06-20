@@ -154,12 +154,28 @@
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "bb8d2b9f-c7de-4b36-903d-7eb085fa9785": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "a09542e6-cdcb-4213-9f4a-693ce8f1d757": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "bb8d2b9f-c7de-4b36-903d-7eb085fa9785",
+          "a09542e6-cdcb-4213-9f4a-693ce8f1d757"
         ],
         "settings": {
           "color_scheme": "background-1",
