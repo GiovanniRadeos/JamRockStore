@@ -247,6 +247,42 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "16557443851ec8e164": {
+      "type": "image-with-text",
+      "blocks": {
+        "1655744385cfd9374d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Mini Course !",
+            "heading_size": "h1"
+          }
+        },
+        "1655744385cfd9374d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join our newsletter and get free access to our courses, event near you, and the latest from the burth world.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1655744385cfd9374d-0",
+        "1655744385cfd9374d-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_62_3x_72bd1812-808a-4469-b294-4ce59ac3df5c.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -255,6 +291,7 @@
     "1654783235958c48a5",
     "1654784681252b6437",
     "1654784760fd2ca2c7",
-    "1655743703350de6e6"
+    "1655743703350de6e6",
+    "16557443851ec8e164"
   ]
 }
