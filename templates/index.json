@@ -178,8 +178,8 @@
         "1655743703b9331398-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "",
+            "title": "",
+            "text": "<p><em>the birthworld, reborn.<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -187,7 +187,8 @@
         "1655743703b9331398-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/DTI_icon_blue_2_2x_b3b4ddb8-1691-4834-89ba-4e0789932ab3.webp",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -196,8 +197,8 @@
         "a5f5eb0d-65aa-4051-9d4d-0ca5b007991a": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "",
+            "title": "",
+            "text": "<p><em>the birthworld, reborn.<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -205,7 +206,8 @@
         "f591da94-3e08-423d-8377-4e9e3e30e97a": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/DTI_icon_blue_2_2x_b3b4ddb8-1691-4834-89ba-4e0789932ab3.webp",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -214,8 +216,8 @@
         "494f8d2e-3133-48eb-918c-ad5e44ddba36": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "",
+            "title": "",
+            "text": "<p><em>the birthworld, reborn.<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -232,11 +234,11 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "image_width": "third",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "primary",
+        "column_alignment": "left",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
