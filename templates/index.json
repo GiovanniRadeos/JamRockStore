@@ -61,6 +61,14 @@
             "heading_size": "h2"
           }
         },
+        "504b01db-699d-4215-bdc1-0daa96b07cf6": {
+          "type": "caption",
+          "settings": {
+            "caption": "education",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "165478323584f58298-1": {
           "type": "text",
           "settings": {
@@ -78,6 +86,7 @@
       },
       "block_order": [
         "165478323584f58298-0",
+        "504b01db-699d-4215-bdc1-0daa96b07cf6",
         "165478323584f58298-1",
         "165478323584f58298-2"
       ],
