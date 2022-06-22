@@ -484,7 +484,7 @@ blockquote {
 }
 
 .caption {
-  font-size: xx-large;
+  font-size: large;
   letter-spacing: 0.07rem;
   line-height: calc(1 + 0.7 / var(--font-body-scale));
 }
