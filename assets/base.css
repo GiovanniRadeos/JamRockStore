@@ -422,7 +422,7 @@ h1,
 h2,
 .h2 {
   font-size: calc(var(--font-heading-scale) * 2rem);
-    color: red;
+    color: #983834;
 }
 
 @media only screen and (min-width: 750px) {
