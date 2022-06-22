@@ -2883,3 +2883,7 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+  #MainContent .rte a:not(.btn) {
+	border-bottom: none;
+}
