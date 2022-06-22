@@ -2572,7 +2572,7 @@ details[open] > .header__submenu {
 
   .header--top-center .header__inline-menu {
     justify-self: center;
-     display: inline;
+    border-bottom: none;
   }
 
   .header--top-center .header__inline-menu > .list-menu--inline {
