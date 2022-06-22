@@ -2579,7 +2579,7 @@ details[open] > .header__submenu {
   }
 
   .header--middle-left .header__inline-menu {
-    margin-left: 110;
+    margin-left: 0;
   }
 }
 
