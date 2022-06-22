@@ -61,18 +61,10 @@
             "heading_size": "h2"
           }
         },
-        "504b01db-699d-4215-bdc1-0daa96b07cf6": {
-          "type": "caption",
-          "settings": {
-            "caption": "education",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
         "165478323584f58298-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe that families deserve compassionate, evidenced-based support at all stages of life—no matter their gender, race, religion, class or sexual orientation. Together, we are cultivating culturally humble communities that reimagine the role of reproductive work.<\/p>",
+            "text": "<p><strong>EDUCATION<\/strong><\/p><p>We believe that families deserve compassionate, evidenced-based support at all stages of life—no matter their gender, race, religion, class or sexual orientation. Together, we are cultivating culturally humble communities that reimagine the role of reproductive work.<\/p>",
             "text_style": "body"
           }
         },
@@ -86,7 +78,6 @@
       },
       "block_order": [
         "165478323584f58298-0",
-        "504b01db-699d-4215-bdc1-0daa96b07cf6",
         "165478323584f58298-1",
         "165478323584f58298-2"
       ],
