@@ -69,7 +69,7 @@
 .color-inverse,
 .color-accent-1,
 .color-accent-2 {
-  --color-button: var(--color-foreground);
+  --color-button: red;
   --color-button-text: var(--color-background);
 }
 
